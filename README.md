@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/priyaprasad25178-ctrl/DSAcodee/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyaprasad25178-ctrl/DSAcodee/tree/master/0013-roman-to-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/priyaprasad25178-ctrl/DSAcodee/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyaprasad25178-ctrl/DSAcodee/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/priyaprasad25178-ctrl/DSAcodee/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/priyaprasad25178-ctrl/DSAcodee/tree/master/0977-squares-of-a-sorted-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/priyaprasad25178-ctrl/DSAcodee/tree/master/3875-construct-uniform-parity-array-i) |
 ## Trie
 |  |
 | ------- |
